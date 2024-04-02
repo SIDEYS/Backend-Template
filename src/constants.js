@@ -1,0 +1,1 @@
+// Define any constants here to be used anywhere in the backend logic.
